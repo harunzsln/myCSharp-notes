@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CSharpExamples\Conditions\bin\Debug\Conditions.exe.config
+C:\Users\pc\source\repos\CSharpExamples\Conditions\bin\Debug\Conditions.exe
+C:\Users\pc\source\repos\CSharpExamples\Conditions\bin\Debug\Conditions.pdb
+C:\Users\pc\source\repos\CSharpExamples\Conditions\obj\Debug\Conditions.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CSharpExamples\Conditions\obj\Debug\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CSharpExamples\Conditions\obj\Debug\Conditions.exe
+C:\Users\pc\source\repos\CSharpExamples\Conditions\obj\Debug\Conditions.pdb

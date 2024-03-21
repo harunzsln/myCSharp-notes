@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CSharpExamples\Loop3\bin\Debug\Loop3.exe.config
+C:\Users\pc\source\repos\CSharpExamples\Loop3\bin\Debug\Loop3.exe
+C:\Users\pc\source\repos\CSharpExamples\Loop3\bin\Debug\Loop3.pdb
+C:\Users\pc\source\repos\CSharpExamples\Loop3\obj\Debug\Loop3.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CSharpExamples\Loop3\obj\Debug\Loop3.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CSharpExamples\Loop3\obj\Debug\Loop3.exe
+C:\Users\pc\source\repos\CSharpExamples\Loop3\obj\Debug\Loop3.pdb
